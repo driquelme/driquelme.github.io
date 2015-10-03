@@ -1,17 +1,18 @@
-scala.org.mx
+scala-lang.cl
 ============
-[![Build Status](https://travis-ci.org/scalamx/scalamx.github.io.svg)](https://travis-ci.org/scalamx/scalamx.github.io)
 
-Sitio y Blog colaborativo de la Comunidad Scala México
+Sitio y Blog colaborativo de la Comunidad Scala Chile
 
 # Utilizamos Jekyll
 Este es un blog que se basa en el proyecto de [Jekyll](http://jekyllrb.com/).
 
 ## Instalación y uso local
 ```bash
-$ git clone https://github.com/scalamx/scalamx.github.io.git
+$ git clone https://github.com/driquelme/driquelme.github.io.git
 $ bundle install
-$ jekyll serve
+$ export LANG="en_US.UTF-8"
+$ export LC_ALL="en_US.UTF-8"
+$ bundle exec jekyll serve
 ```
 
 ## Licencia
