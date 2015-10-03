@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Comunidad Scala México
+title: Comunidad Scala Chile
 permalink: /comunidad/
 ---
 
-Bienvenido a la comunidad de desarrollo del lenguaje de programación Scala en México.
+Bienvenido a la comunidad de desarrollo del lenguaje de programación Scala en Chile.
 
 Somos una comunidad abierta de Programadores, Arquitectos de Software y Líderes de Desarrollo enfocados en obtener 
 lo mejor del lenguaje Scala a través del trabajo colaborativo y el aprendizaje continuo de sus tecnologías.
